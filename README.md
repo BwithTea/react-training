@@ -3,7 +3,7 @@
 This repository contains my work and notes from the **React Essential Training** course on LinkedIn Learning.  
 I’m using this project to deepen my understanding of React fundamentals — including components, hooks, and modern app architecture — while building toward more advanced projects.
 
-Each branch reflects a different lesson or stage in the learning process.  
+Each branch reflects a different lesson or stage in the learning process.  Ex. 04_02b "Chapter 4, Video 2"
 To explore, switch branches or view them using `/tree/BRANCH_NAME` in the URL.
 
 ---
