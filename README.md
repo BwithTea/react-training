@@ -9,4 +9,4 @@ To explore, switch branches or view them using `/tree/BRANCH_NAME` in the URL.
 ---
 
   
-**Learning Focus:** Front-end development with React and scalable web app design.
+**Learning Focus:** Front-end development with React and scalable web app design. 
