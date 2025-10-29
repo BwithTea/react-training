@@ -1,9 +1,22 @@
 import './App.css'
 
-function App() {
+let language = "JavaScript"
+let moon = "🌙"
 
+
+function Header() {
   return (
-    <h1>Hello React!</h1>
+    <header>
+        <h1>{language} Rocks!</h1>
+    </header>
+  )
+}
+function App() {
+  return (
+    <div>
+      <Header />
+      <h1>Hello {language.toUpperCase()} {moon}</h1>
+    </div>
   )
 }
 
